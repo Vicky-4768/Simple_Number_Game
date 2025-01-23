@@ -50,5 +50,5 @@ Instructions on how to use the project.
 Guidelines for contributing to the project.
 
 ## License
-Information about the project's license.
+Copyright (c) 2025 Vicky-4768
 
