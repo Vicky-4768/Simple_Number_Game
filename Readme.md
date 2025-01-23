@@ -1,6 +1,6 @@
 # SImple Number Game
 ## Description
-Simple number game proj using python fro practice docker containers.
+Simple number game proj using python for practice docker containers.
 
 ## Prerequisites
 Make sure you have the following installed:
