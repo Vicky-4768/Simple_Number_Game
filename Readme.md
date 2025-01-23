@@ -1,7 +1,6 @@
-# Project Name
-
+# SImple Number Game
 ## Description
-A brief description of your project.
+Simple number game proj using python fro practice docker containers.
 
 ## Prerequisites
 Make sure you have the following installed:
